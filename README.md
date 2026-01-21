@@ -1,4 +1,4 @@
-# 📱 Subscriber Plan Recommendation — Megaline
+# Megline Subscriber Plan Recommendation
 
 ## Overview  
 I built a machine learning model that analyzes how people use their phones and predicts whether they’re a better fit for Megaline’s Smart or Ultra plan. The work focused on turning real subscriber behavior data into something that could realistically support plan recommendations.

@@ -3,7 +3,7 @@
 ## Overview  
 I built a machine learning model that analyzes how people use their phones and predicts whether they’re a better fit for Megaline’s Smart or Ultra plan. The work focused on turning real subscriber behavior data into something that could realistically support plan recommendations.
 
-The model was trained using monthly usage data (calls, minutes, text messages, and mobile internet). I tested multiple modeling approaches, tuned the strongest one, and achieved about **83% accuracy on new users**. Throughout the process, the emphasis was on doing this the right way — using proper training, validation, and test splits so the results would hold up beyond the training data.
+The model was trained using monthly usage data (calls, minutes, text messages, and mobile internet). I tested multiple modeling approaches, tuned the strongest one, and achieved about **83% accuracy on new users**. Throughout the process, the emphasis was on doing this the right way using proper training, validation, and test splits so the results would hold up beyond the training data.
 
 ---
 
@@ -49,5 +49,5 @@ Python · pandas · NumPy · scikit-learn · Jupyter Notebook
 ---
 
 ## Why this matters  
-This work shows how subscriber behavior data can be used to support real telecom decisions — improving plan fit, reducing reliance on legacy plans, and enabling data-driven recommendations.
+This work shows how subscriber behavior data can be used to support real telecom decisions improving plan fit, reducing reliance on legacy plans, and enabling data-driven recommendations.
 
